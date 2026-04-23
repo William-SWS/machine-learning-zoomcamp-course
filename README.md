@@ -81,14 +81,6 @@ Estou utilizando este curso como parte do meu plano de desenvolvimento em:
 
 ---
 
-## 📬 Contato
-
-Caso queira trocar ideias sobre o curso ou Machine Learning:
-
-* GitHub: *(adicione aqui seu perfil)*
-
----
-
 ## ⭐ Créditos
 
 Todo o conteúdo base pertence à comunidade DataTalks.Club:
